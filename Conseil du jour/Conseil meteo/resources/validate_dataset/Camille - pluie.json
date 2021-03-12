@@ -1,0 +1,11 @@
+{
+  "personne": {
+    "country": "FRANCE",
+    "inputName": "Camille Dupond"
+  },
+  "prévisionMétéo": {
+    "Alerte tempête": false,
+    "Prévision des précipitations": 90,
+    "Température ressentie": "Agréable"
+  }
+}
